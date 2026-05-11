@@ -1031,7 +1031,7 @@ a {
 
 /* Final homepage color fixes */
 .home-page .nav-link {
-  color: #000000;
+  color: #ffffff;
 }
 
 .home-page .nav-link:hover {
@@ -1040,5 +1040,5 @@ a {
 
 .hero-title,
 .hero-subtitle {
-  color: #000000;
+  color: #ffffff;
 }
